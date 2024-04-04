@@ -33,6 +33,7 @@ function sumar(num1,num2){
 
 };
 
+console.log("hola");
 
 console.log("numero desimal:" + nu_desimal + "\ntexto:" + tex +"\ncadena:"+
 cadena +"\nboleana:" + bolean + "\nnada:" + nada + "\nnulo:"
