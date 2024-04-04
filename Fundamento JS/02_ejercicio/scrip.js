@@ -1,7 +1,9 @@
 // Ejercicio 1: Declaración de variables
 // Instrucciones: Declara dos variables numéricas llamadas 'ahura' y 'fecha_nac'.
 // Luego, calcula y muestra en un mensaje la ahura basada en el fecha_nac.
+
 console.log("hola")
+
 function declararVariables() {  
     // Tu código aquí
     let ahura = 2345;
